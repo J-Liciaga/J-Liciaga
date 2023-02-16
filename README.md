@@ -1,10 +1,13 @@
 - 🤙 Aloha, I’m @J-Liciaga
 - 👀 I’m interested in all things Software
-- 🌱 I’m currently Q#
+- 🌱 I’m currently learning:
+  - Quantum Machine Learning 
+  - Q# and IBMs Qiskit
 - 💞️ I’m looking to collaborate on:
   - Projects
   - Mentoring
   - Startups
+  - Ethics of Software Development
 - 📫 How to reach me:
   - Email: josiah.liciagasilva@pm.me
 

@@ -1,5 +1,3 @@
-- 🤙 Aloha, I’m @J-Liciaga
-- 👀 I’m interested in all things Software
 - 📫 How to reach me:
   - Email: josiah.liciagasilva@pm.me
 
